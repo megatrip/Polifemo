@@ -1,1 +1,2 @@
 # Polifemo
+Video projector manager
