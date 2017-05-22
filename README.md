@@ -1,2 +1,2 @@
 # Polifemo
-Video projector manager
+NW.js video projector manager
