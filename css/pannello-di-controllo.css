@@ -1,0 +1,99 @@
+div {
+	background-size: cover;
+	cursor: pointer;
+}
+.hover:hover {
+	background-color: #ff841a;
+}
+.grande {
+	float: left;
+	height: 80px;
+	width: 80px;
+}
+.piccolo {
+	float: left;
+	height: 80px;
+	width: 40px;
+}
+#media[data-click="0"] {
+	background-image: url("../icone/media.svg");
+}
+#media[data-click="1"] {
+	background-color: #37a948;
+	background-image: url("../icone/media.svg");
+}
+#proiettore[data-click="0"] {
+	background-image: url("../icone/proiettore.svg");
+}
+#proiettore[data-click="1"] {
+	background-color: #37a948;
+	background-image: url("../icone/proiettore.svg");
+}
+#schermo-intero[data-click="0"] {
+	background-image: url("../icone/schermo-intero.svg");
+}
+#schermo-intero[data-click="1"] {
+	background-color: #37a948;
+	background-image: url("../icone/schermo-intero.svg");
+}
+#oscuramento-immagini-video-colori-codici {
+	background-image: url("../icone/sfumatura.svg");
+}
+#sfumatura-suoni {
+	background-image: url("../icone/sfumatura-suoni.svg");
+}
+#oscuramento-testi {
+	background-image: url("../icone/sfumatura.svg");
+	font-family: FredokaOne-Regular;
+	font-size: 1.5em;
+	line-height: 80px;
+	text-align: center;
+}
+#top,
+#middle,
+#bottom {
+	cursor: default !important;
+	font-family: FredokaOne-Regular;
+	font-size: 1em;
+	height: 26.66px;
+	line-height: 26.66px;
+	text-align: center;
+}
+#allineamento-testi div[data-click="0"] {
+	opacity: 0.5;
+}
+#allineamento-testi div[data-click="1"] {
+	opacity: 1;
+}
+#dissolvenza {
+	cursor: default !important;
+	font-family: FredokaOne-Regular;
+	font-size: 3.5em;
+	line-height: 80px;
+	text-align: center;
+}
+#piu,
+#meno {
+    font-family: FredokaOne-Regular;
+    font-size: 2em;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    width: 40px;
+}
+#log[data-click="0"] {
+	background-image: url("../icone/log.svg");
+}
+#log[data-click="1"] {
+	background-color: #37a948;
+	background-image: url("../icone/log.svg");
+}
+#info {
+	font-family: FredokaOne-Regular;
+	font-size: 4em;
+	line-height: 80px;
+	text-align: center;
+}
+#info[data-click="1"] {
+	background-color: #37a948;
+}

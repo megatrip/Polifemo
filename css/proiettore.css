@@ -1,0 +1,45 @@
+#proiettore-immagini-video-colori-codici,
+#proiettore-immagini-video-colori-codici-copia {
+	background-color: #000000;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: contain;
+	cursor: none;
+	height: 100%;
+	left: 0;
+	position: absolute;
+	top: 0;
+	width: 100%;
+}
+video {
+	bottom: 0;
+	left: 0;
+	margin: auto;
+	position: absolute;
+	right: 0;
+	top: 0;
+	width: 100%;
+}
+#proiettore-testi,
+#proiettore-testi-copia {
+	cursor: none;
+	display: none;
+	height: 100%;
+	left: 0;
+	position: absolute;
+	top: 0;
+	width: 100%;
+}
+#proiettore-testi > div,
+#proiettore-testi-copia > div {
+    display: table;
+    height: 100%;
+    width: 100%;
+}
+#proiettore-testi > div > p,
+#proiettore-testi-copia > div > p {
+    display: table-cell;
+    font-family: FredokaOne-Regular;
+    padding: 20px;
+    text-align: center;
+}

@@ -1,0 +1,18 @@
+body {
+	background-color: #000000;
+	color: #ffffff;
+	padding: 10px;
+}
+div {
+	margin-bottom: 10px;
+}
+b {
+	font-weight: bold;
+}
+
+span {
+    display: inline-block;
+    height: 15px;
+    vertical-align: middle;
+    width: 15px;
+}

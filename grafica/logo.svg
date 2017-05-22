@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="230"
+   height="309.99997"
+   viewBox="0 0 230 309.99998"
+   id="svg6652"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="logo.svg">
+  <defs
+     id="defs6654" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="96.844981"
+     inkscape:cy="89.0383"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1280"
+     inkscape:window-height="961"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid7239"
+       empspacing="1"
+       spacingy="10"
+       spacingx="10"
+       originx="14.999998"
+       originy="1.7721512e-06" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata6657">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-19.285712,-451.64794)">
+    <path
+       style="fill:#ff841a;fill-opacity:1;stroke:none"
+       d="m 100.52789,661.64792 0,16.13318 c -0.33597,0.32148 -0.643337,0.66378 -0.949434,1.02852 l -21.704777,25.84607 c -4.508015,5.37253 -3.817105,13.34712 1.555259,17.85512 5.372386,4.508 13.321045,3.78993 17.829052,-1.58237 l 3.2699,-3.904 0,6.64607 0,16.87956 0,8.43874 c 0,7.01311 5.64597,12.65911 12.65914,12.65911 7.01316,0 12.65913,-5.646 12.65913,-12.65911 l 0,-8.43874 16.87848,0 0,8.43874 c 0,7.01311 5.64599,12.65911 12.65915,12.65911 7.01316,0 12.65915,-5.646 12.65915,-12.65911 l 0,-8.43874 0,-16.87956 0,-6.64607 3.27102,3.904 c 4.508,5.3723 12.45555,6.09037 17.82792,1.58237 5.37237,-4.508 6.06425,-12.48259 1.5564,-17.85512 l -21.70592,-25.84607 c -0.30609,-0.36474 -0.61337,-0.70704 -0.94942,-1.02852 l 0,-16.13318 z"
+       id="path6627"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccsccccsssccsssccccsccccc" />
+    <g
+       id="g7505"
+       transform="matrix(1.15,0,0,1.15,-20.142859,-67.747168)">
+      <path
+         inkscape:export-ydpi="57.599998"
+         inkscape:export-xdpi="57.599998"
+         inkscape:export-filename="/home/walter/Polifemo/icone/occhio.png"
+         style="fill:#ff841a;fill-opacity:1;stroke:none"
+         d="m 234.28571,551.64792 c 0,55.2286 -44.77156,100 -100,100 -55.228436,0 -99.999996,-44.7714 -99.999996,-100 0,-55.2284 44.77156,-100 99.999996,-100 55.22844,0 100,44.7716 100,100 z"
+         id="path7973"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="57.599998"
+         inkscape:export-xdpi="57.599998"
+         inkscape:export-filename="/home/walter/Polifemo/icone/occhio.png"
+         d="m 134.28465,476.64782 c 41.42098,0 75.00105,33.5811 75.00105,74.9999 0,41.4217 -33.58007,75.0003 -75.00105,75.0003 -41.419376,0 -74.998946,-33.5786 -74.998946,-75.0003 0,-41.4188 33.57957,-74.9999 74.998946,-74.9999"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         id="path7998"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="57.599998"
+         inkscape:export-xdpi="57.599998"
+         inkscape:export-filename="/home/walter/Polifemo/icone/occhio.png"
+         d="m 134.28494,502.89782 c 26.92414,0 48.75082,21.825 48.75082,48.7493 0,26.9236 -21.82668,48.7508 -48.75082,48.7508 -26.92262,0 -48.749286,-21.8272 -48.749286,-48.7508 0,-26.9243 21.826666,-48.7493 48.749286,-48.7493"
+         style="fill:#a1b3b3;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         id="path8002"
+         inkscape:connector-curvature="0" />
+      <g
+         inkscape:export-ydpi="57.599998"
+         inkscape:export-xdpi="57.599998"
+         inkscape:export-filename="/home/walter/Polifemo/icone/occhio.png"
+         transform="matrix(-1,0,0,1,-78.390956,-4026.7777)"
+         id="g6633">
+        <path
+           inkscape:connector-curvature="0"
+           id="path8004"
+           style="fill:#241c1c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.82395929;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:22.92558479;stroke-dasharray:none;stroke-opacity:1"
+           d="m -212.9869,4554.2039 c 13.54846,0 24.53053,10.984 24.53053,24.5306 0,13.5467 -10.98207,24.5307 -24.53053,24.5307 -13.54616,0 -24.52823,-10.984 -24.52823,-24.5307 0,-13.5466 10.98207,-24.5306 24.52823,-24.5306 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path8006"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           d="m -225.25064,4554.2039 c 6.77385,0 12.26374,5.4909 12.26374,12.2649 0,6.7749 -5.48989,12.2657 -12.26374,12.2657 -6.7746,0 -12.26449,-5.4908 -12.26449,-12.2657 0,-6.774 5.48989,-12.2649 12.26449,-12.2649" />
+      </g>
+    </g>
+  </g>
+</svg>

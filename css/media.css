@@ -1,0 +1,102 @@
+h1 {
+	font-family: FredokaOne-Regular;
+	font-size: 2em;
+	margin: 10px 10px 0 10px;
+}
+#immagini li {
+    display: inline-block;
+    padding: 10px;
+    text-align: center;
+    vertical-align: top;
+    width: 20%;
+    word-break: break-all;
+}
+.immagine {
+    cursor: pointer;
+    display: block;
+    margin: auto auto 10px auto;
+    max-height: 160px;
+    max-width: 100%;
+    opacity: 0.35;
+    vertical-align: middle;
+}
+#video li {
+	display: inline-block;
+    padding: 10px;
+    text-align: center;
+    vertical-align: top;
+    width: 25%;
+    word-break: break-all;
+}
+.video {
+	cursor: pointer;
+    display: block;
+    margin: auto auto 10px auto;
+    opacity: 0.35;
+    width: 100%;
+    vertical-align: middle;
+}
+#audio li {
+    display: inline-block;
+    padding: 10px;
+    text-align: center;
+    vertical-align: top;
+    width: 16.66%;
+    word-break: break-all;
+}
+.audio {
+    background-image: url("../icone/audio.svg");
+    background-size: cover;
+    cursor: pointer;
+    margin: auto auto 10px auto;
+    opacity: 0.35;
+    width: 100%;
+}
+#colori li {
+    display: inline-block;
+    padding: 10px;
+    text-align: center;
+    vertical-align: top;
+    width: 12.5%;
+    word-break: break-all;
+}
+.colore {
+    cursor: pointer;
+    margin: auto auto 10px auto;
+    opacity: 0.35;
+    width: 100%;
+}
+#testi li {
+    display: inline-block;
+    padding: 10px;
+    text-align: center;
+    vertical-align: top;
+    width: 25%;
+    word-break: break-all;
+}
+.testo {
+	cursor: pointer;
+    font-family: FredokaOne-Regular;
+    font-size: 2em;
+    opacity: 0.35;
+    padding: 10px 0;
+    vertical-align: middle;
+    word-break: break-word;
+}
+#codici li {
+    display: inline-block;
+    padding: 10px;
+    text-align: center;
+    vertical-align: top;
+    width: 20%;
+    word-break: break-all;
+}
+.codice {
+    cursor: pointer;
+    display: block;
+    margin: auto auto 10px auto;
+    max-height: 160px;
+    max-width: 100%;
+    opacity: 0.35;
+    vertical-align: middle;
+}

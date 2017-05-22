@@ -1,0 +1,11 @@
+{
+    "name": "Polifemo",
+    "version": "2017",
+    "main": "pannello-di-controllo.html",
+    "window": {
+        "show": false,
+        "title": "Polifemo",
+        "toolbar": false,
+        "icon": "icone/occhio.png"
+    }
+}
